@@ -18,4 +18,4 @@
 
 [OBAMAREID]:http://wpo.st/V8rP0
 
-[cy-young-tracker: https://www.washingtonpost.com/graphics/sports/cy-young-tracker/
+[cy-young-tracker]: https://www.washingtonpost.com/graphics/sports/cy-young-tracker/
