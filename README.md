@@ -1,4 +1,4 @@
-# Graphics
+# Brooks Mershon's Graphics
 
 | For  | URL |
 | ------------- | ------------- |
