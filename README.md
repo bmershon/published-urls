@@ -8,6 +8,19 @@
 | The Washington Post  | [Reid's conservation legacy][OBAMAREID]  |
 | The Washington Post  | [2015 Cy Young Tracker][cy-young-tracker]  |
 
+## [Context Sensitive Cartographic Labels (3D globe)][nuclear-testing]
+
+The idea here was to visualize nuclear testing throughout history on a 3D globe that responds to a user's mouse movement. One problem this experiment attempted to solve was the cluttering of labels that results when event, country, and state labels overlap. *Interactive* orthographic projection presents an opportunity to do something *different* with label placement: make labels context sensitive! Labels change size and opacity as their position changes within the viewport.
+
+Several different gimbal-like mechanisms were experimented with. The rendering pipeline makes use of a prototype [library](https://github.com/bmershon/d3-chart-atlas) I created to help manage rendering and user-interaction for multiple geographic layers.
+
+<img src="img/nuclear-testing/1.png" width="100%">
+<img src="img/nuclear-testing/2.png" width="100%">
+<img src="img/nuclear-testing/3.png" width="100%">
+<img src="img/nuclear-testing/5.png" width="100%">
+<img src="img/nuclear-testing/6.png" width="100%">
+
+
 ## [23 countries legalized same-sex marriage][same-sex]
 
 **[Adobe Illustrator]**
