@@ -1,13 +1,12 @@
-# Brooks Mershon
-
-## Published Graphics
 | For  | URL |
 | ------------- | ------------- |
-| Prototype | [Context Sensitive Labels (3D globe)][nuclear-testing]  |
+| Prototype (c) The Washington Post, 2016 | [Context Sensitive Labels (3D globe)][nuclear-testing]  |
 | The Washington Post | [23 countries legalized same-sex marriage][same-sex]  |
 | The Washington Post  | [Gigaton (Chris Mooney)][gigaton]  |
 | The Washington Post  | [Reid's conservation legacy][OBAMAREID]  |
 | The Washington Post  | [2015 Cy Young Tracker][cy-young-tracker]  |
+
+# Projects
 
 ## [Context Sensitive Cartographic Labels (3D globe)][nuclear-testing]
 
