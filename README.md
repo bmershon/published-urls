@@ -9,9 +9,9 @@
 | The Washington Post  | [Reid's conservation legacy][OBAMAREID]  |
 | The Washington Post  | [2015 Cy Young Tracker][cy-young-tracker]  |
 
-## Descriptions
+## Projects
 
-## [Context Sensitive Cartographic Labels (3D globe)][nuclear-testing]
+### [Context Sensitive Cartographic Labels (3D globe)][nuclear-testing]
 
 The idea here was to visualize nuclear testing throughout history on a 3D globe that responds to a user's mouse movement. One problem this experiment attempted to solve was the cluttering of labels that results when event, country, and state labels overlap. *Interactive* orthographic projection presents an opportunity to do something *different* with label placement: make labels context sensitive! Labels change size and opacity as their position changes within the viewport.
 
@@ -24,19 +24,19 @@ Several different gimbal-like mechanisms were experimented with. The rendering p
 <img src="img/nuclear-testing/6.png" width="100%">
 
 
-## [23 countries legalized same-sex marriage][same-sex]
+### [23 countries legalized same-sex marriage][same-sex]
 
 **[Adobe Illustrator]**
 
 <img src="img/same-sex/same-sex.png" width="100%">
 
-## [Gigaton (Chris Mooney)][gigaton]
+### [Gigaton (Chris Mooney)][gigaton]
 
 **[Adobe Illustrator]**
 
 <img src="img/gigaton/gigaton.png" width="100%">
 
-## [Reid's conservation legacy][OBAMAREID]
+### [Reid's conservation legacy][OBAMAREID]
 
 **[D3.js, Shapefiles, Make, TopoJSON]**
 
@@ -44,7 +44,7 @@ Harry Reid's conservation map was [assembled](https://github.com/bmershon/nevada
 
 <img src="img/reid-nevada/reid-nevada.png" width="100%">
 
-## [2015 Cy Young Tracker][cy-young-tracker]
+### [2015 Cy Young Tracker][cy-young-tracker]
 
 **[D3.js, JavaScript, Shapefiles, Make, TopoJSON]**
 
