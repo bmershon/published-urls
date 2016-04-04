@@ -24,6 +24,8 @@
 
 **[D3.js, Shapefiles, Make, TopoJSON]**
 
+Harry Reid's conservation map was [assembled](https://github.com/bmershon/nevada-wilderness) from shapefiles and tabular data using Makefiles. An SVG, including the map and generated bar graph, was rendered with D3.js and exported to Adobe Illustrator for editing before publicaiton. 
+
 <img src="img/reid-nevada/reid-nevada.png" width="100%">
 
 ## [2015 Cy Young Tracker][cy-young-tracker]
