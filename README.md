@@ -43,7 +43,7 @@ Harry Reid's conservation map was [assembled](https://github.com/bmershon/nevada
 
 ## [2015 Cy Young Tracker][cy-young-tracker]
 
-**[D3.js, JavaScript, Shapefiles, Make, TopoJSON]**
+**[D3.js, JavaScript, HTML/CSS, Templates, Excel]**
 
 <img src="img/cy-young-tracker/cy-young-tracker.png" width="100%">
 
