@@ -35,7 +35,7 @@ Several different gimbal-like mechanisms were experimented with. The rendering p
 
 ## [Reid's conservation legacy][OBAMAREID]
 
-**[D3.js, Shapefiles, Make, TopoJSON]**
+**[D3.js, Shapefiles, Make, TopoJSON, Adobe Illustrator, Excel, QGIS]**
 
 Harry Reid's conservation map was [assembled](https://github.com/bmershon/nevada-wilderness) from shapefiles and tabular data using Make. This automated process for rendering maps and computing total areas turned out to be very helpful as the story, and therefore the map itself, evolved in the days before publication. The map and bar graphs were first rendered with D3.js, then the base SVG was then exported to Adobe Illustator.
 
