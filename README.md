@@ -9,7 +9,7 @@
 | The Washington Post  | [2015 Cy Young Tracker][cy-young-tracker]  |
 
 ## [Context Sensitive Cartographic Labels (3D globe)][nuclear-testing]
-[D3.js, JavaScript, shapefiles]
+**[D3.js, JavaScript, shapefiles]**
 
 The idea here was to visualize nuclear testing throughout history on a 3D globe that responds to a user's mouse movement. One problem this experiment attempted to solve was the cluttering of labels that results when event, country, and state labels overlap. *Interactive* orthographic projection presents an opportunity to do something *different* with label placement: make labels context sensitive! Labels change size and opacity as their position changes within the viewport.
 
